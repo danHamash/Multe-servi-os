@@ -137,6 +137,7 @@ background-image: url(../../assets/image/eletrica.png);
 .sobre-bg{
 background-image: url(../../assets/image/sobre-empresa.png);
 background-size: cover;
+height: 100%;
 }
 .container-sobre{
   font-size: 2rem;
@@ -233,7 +234,7 @@ footer {
   overflow: hidden;
   margin-bottom: 10px ;
   height: 300px;  
-  border-radius: 12px;
+  border-radius: 12px 12px 0 0;
 }
 
 /* camada de sombra */
