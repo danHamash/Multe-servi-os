@@ -204,6 +204,7 @@ form button {
   color: white;
   padding: 10px;
   border: none;
+  cursor: pointer;
 }
 
 footer {
